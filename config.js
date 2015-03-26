@@ -14,7 +14,7 @@ var Config = {
   defaultTo: 'robertwaltonpearce@gmail.com',
   defaultToName: 'Robert Pearce',
   headers: {
-    allowOrigin: 'http://robertwpearce.com/local-coffee-pass/',
+    allowOrigin: 'http://robertwpearce.com',
     allowMethods: 'GET, POST, OPTIONS, PUT, PATCH, DELETE',
     allowHeaders: 'X-Requested-With,content-type'
   }
