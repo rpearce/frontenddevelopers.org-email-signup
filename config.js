@@ -11,7 +11,7 @@ var Config = {
   defaultFrom: 'noreply@localcoffeepass.com',
   defaultFromName: 'Local Coffee Pass',
   defaultSubject: 'Local Coffee Pass Signup',
-  defaultTo: 'robertwaltonpearce@gmail.com',
+  defaultTo: 'craig@densitycoworking.com',
   defaultToName: 'Robert Pearce',
   headers: {
     allowOrigin: 'http://robertwpearce.com',
